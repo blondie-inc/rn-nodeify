@@ -6,7 +6,7 @@ module.exports = {
   "console-browserify": "^1.1.0",
   "constants-browserify": "^1.0.0",
   "crypto-browserify": "~3.2.6",
-  "dns.js": "^1.0.1",
+  "dns.js": "https://github.com/naxel/dns.js#master",
   "domain-browser": "~1.1.0",
   "events": "~1.0.0",
   "stream-http": "^1.2.0",
